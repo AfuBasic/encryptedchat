@@ -1,0 +1,1 @@
+This simple application is an IM chat application. This application encrypts all messages that goes both ways. Every member is assigned a decryption key after their account creation. The Application is written in PHP with Codeigniter 3.1.1
